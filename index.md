@@ -41,9 +41,7 @@ sections:
   section_id: two
   background_style: style2
   spotlights:
-  - title: |-
-      Magna primis lobortis
-      sed ullamcorper
+  - title: Magna primis lobortissed ullamcorper qq
     text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
       Mauris eleifend fringilla nullam aenean mi ligula.
     home_img_path: images/pic01.jpg
