@@ -2,7 +2,7 @@
 title: Home
 banner:
   title: Spectral
-  subtitle: "Blandit duis accumsan  \narcu sagittis viverra  \nblandit at Interdum."
+  subtitle: "Blandit duis accumsan  \narcu sagittis viverra  \nblandit at Interdum.dded"
   actions:
   - label: Activate
     url: "/generic"
